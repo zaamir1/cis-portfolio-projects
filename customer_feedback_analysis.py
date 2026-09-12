@@ -1,7 +1,6 @@
-# Customer Feedback Analysis Tool
-# Built with Python + Streamlit
-# Goal: turn raw customer reviews into quick, useful service/product insights.
-
+# Customer Feedback Analysis Tool!
+# Built with Python + Streamlit 
+# Goal: turn raw customer reviews into quick, useful service/product insights. This was inspired by my experience doing structured feedback missions for TOPBOX, teaching me the importance of simple quality feedback and how every company can benefit from visualizing such data.
 import re
 from collections import Counter
 
